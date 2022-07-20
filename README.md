@@ -1,9 +1,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project Interface Screen Shot][interface-screenshot]](https://github.com/weihsiangwang/journal-entry-maker)
+[![Project Interface Screen Shot][interface-screenshot]](https://github.com/weihsiangwang/journal-entry-maker)  [![Output Report Screen Shot][output-screenshot]](https://github.com/weihsiangwang/journal-entry-maker)
 
-Journal Entry Maker
+Journal Entry Maker is inspired by my buddy [Hao-Cheng](https://www.linkedin.com/in/hao-cheng-yu-152108134/), in order to solve his treadmill. This application supports entering multiple accounting voucher or date to generate a printable accounting journal entry.
 
 
 <!-- GETTING STARTED -->
@@ -54,4 +54,5 @@ Project Link: [https://github.com/weihsiangwang/journal-entry-maker](https://git
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[interface-screenshot]: ./img/interface.png
+[interface-screenshot]: https://github.com/weihsiangwang/journal-entry-maker/blob/master/img/interface.PNG
+[output-screenshot]: https://github.com/weihsiangwang/journal-entry-maker/blob/master/img/output.PNG
